@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
 
-        EditText amt;
+        EditText amt; //
         EditText noPax;
         EditText discount;
 
